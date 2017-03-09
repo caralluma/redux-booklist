@@ -1,16 +1,19 @@
 export default function() {
   return [
-    { title: "Javascript: The Good Parts",
-      author: "Say Whhhhaaaa"
+    { title: "Cracking the Coding Interview",
+      author: "Gayle Laakmann"
     },
-    { title: "Harry Potter",
-      author: "Hairy Sack"
+    { title: "Clean Code",
+      author: "Robert Martin"
     },
-    { title: "The Dark Tower",
-      author: "Hairy Sack"
+    { title: "Dom Enlightenment",
+      author: "Cody Lindley"
     },
-    { title: "Eloquent Ruby",
-      author: "Hairy Sack"
+    { title: "Code Complete",
+      author: "Steve McConnell"
+    },
+    { title: "The Pragmatic Programmer",
+      author: "Andrew Hunt, David Thomas"
     }
   ]
 }

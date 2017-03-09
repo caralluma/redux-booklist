@@ -1,0 +1,20 @@
+@import "react-toolbox/lib/list/theme.css";
+@import "react-toolbox/lib/card/theme.css";
+
+.list {
+    width: 400px;
+    margin: 0 15%;
+    float: right;
+}
+
+.card {
+    width: 350px;
+}
+
+.card h5 {
+    font-size: 18px !important;
+    width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

@@ -1,5 +1,6 @@
 @import "react-toolbox/lib/list/theme.css";
 
 .list {
-    width: 40%;
+    width: 30%;
+    margin: 0 5%;
 }
